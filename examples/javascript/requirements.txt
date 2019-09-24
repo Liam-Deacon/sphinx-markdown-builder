@@ -1,4 +1,4 @@
-Babel==2.6.0
+Babel==2.7.0
 Jinja2==2.10
 Markdown==2.6.11
 MarkupSafe==1.1.0
