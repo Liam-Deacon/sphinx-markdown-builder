@@ -25,5 +25,5 @@ sphinx-js==2.3.1
 sphinx-markdown-builder==0.4.0
 sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.1.0
-typing==3.6.6
+typing==3.7.4.1
 urllib3==1.24.1
