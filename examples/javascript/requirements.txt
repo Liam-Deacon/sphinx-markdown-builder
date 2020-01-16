@@ -11,7 +11,7 @@ commonmark==0.8.1
 docutils==0.14
 future==0.17.1
 git+https://github.com/codejamninja/recommonmark.git
-html2text==2018.1.9
+html2text==2020.1.16
 idna==2.8
 imagesize==1.1.0
 packaging==19.0
