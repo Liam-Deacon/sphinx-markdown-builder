@@ -7,7 +7,7 @@ html2text==2018.1.9
 idna==2.8
 imagesize==1.1.0
 Jinja2==2.10
-MarkupSafe==1.1.0
+MarkupSafe==2.0.1
 packaging==19.0
 Pygments==2.3.1
 pyparsing==2.3.1
