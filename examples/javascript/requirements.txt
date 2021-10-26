@@ -8,7 +8,7 @@ alabaster==0.7.12
 certifi==2018.11.29
 chardet==3.0.4
 commonmark==0.8.1
-docutils==0.14
+docutils==0.18
 future==0.17.1
 git+https://github.com/codejamninja/recommonmark.git
 html2text==2018.1.9
