@@ -24,6 +24,6 @@ snowballstemmer==1.2.1
 sphinx-js==2.3.1
 sphinx-markdown-builder==0.4.0
 sphinx-rtd-theme==0.2.4
-sphinxcontrib-websupport==1.1.0
+sphinxcontrib-websupport==2.0.0
 typing==3.6.6
 urllib3==1.24.1
